@@ -21,10 +21,15 @@
     <div style="text-align:center">
         <img src="demo_figs/Figure_Framework.jpg"  width="100%" height="100%">
     </div>
-    <h2>Experimental Results</h2>
+     <h2>Visualization Results</h2>
     <div style="text-align:center">
         <img src="demo_figs/Figure_Fantasy-OOD_Cover_Page_Display.jpg"  width="70%" height="70%">
     </div>
+    <h2>Experimental Results</h2>
+    <div style="text-align:center">
+        <img src="demo_figs/Figure_ImageNet_Results.png"  width="100%" height="100%">
+    </div>
+
 
 
 ---
