@@ -17,19 +17,20 @@
             • <a href="" target='_blank'>CVPR 2026</a> •
         </h4>
     </div>
-    <h2>Illustration</h2>
+    <h2>Framework Illustration</h2>
     <div style="text-align:center">
         <img src="demo_figs/Figure_Framework.jpg"  width="100%" height="100%">
     </div>
-     <h2>Visualization Results</h2>
-    <div style="text-align:center">
-        <img src="demo_figs/Figure_Fantasy-OOD_Cover_Page_Display.jpg"  width="70%" height="70%">
-    </div>
     <h2>Experimental Results</h2>
     <div style="text-align:center">
+        <img src="demo_figs/Figure_CIFAR_Results.png"  width="100%" height="100%">
         <img src="demo_figs/Figure_ImageNet_Results.png"  width="100%" height="100%">
     </div>
-
+     <h2>Visualization Results</h2>
+    <div style="text-align:center">
+        <img src="demo_figs/Figure_Fantasy-OOD_Detailed_Display_Main.jpg"  width="100%" height="100%">
+        <img src="demo_figs/Figure_Fantasy-OOD_Detailed_Display_Supplement.jpg"  width="100%" height="100%">
+    </div>
 
 
 ---
@@ -37,7 +38,7 @@
 </div>
 
 
-# **Overview** 
+# **Fantasy-OOD** 
 
 This is the source code accompanying the paper [***Fantasy Everything: A Journey of Outlier Imagination Across Unknown Spaces***](https://arxiv.org/pdf/2309.13415) by Ruifan Zhang, Hai-miao Hu, Yibo Zhou, and Xiaokang Zhang
 
