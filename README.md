@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Fantasy Everything: A Journey of Outlier Imagination Across Unknown Spaces</h1>
+    <h1>Fantasy Anything: A Journey of Outlier Imagination Across Unknown Spaces</h1>
     <div>
         <a href='https://scholar.google.com/citations?user=U-oCnywAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Ruifan Zhang</a><sup>1,2</sup>
         &emsp;
@@ -33,6 +33,7 @@
     </div>
 
 
+
 ---
 
 </div>
@@ -40,7 +41,7 @@
 
 # **Fantasy-OOD** 
 
-This is the source code accompanying the paper [***Fantasy Everything: A Journey of Outlier Imagination Across Unknown Spaces***](https://arxiv.org/pdf/2309.13415) by Ruifan Zhang, Hai-miao Hu, Yibo Zhou, and Xiaokang Zhang
+This is the source code accompanying the paper [***Fantasy Anything: A Journey of Outlier Imagination Across Unknown Spaces***](https://arxiv.org/pdf/2309.13415) by Ruifan Zhang, Hai-miao Hu, Yibo Zhou, and Xiaokang Zhang
 
 
 The codebase is heavily based on [Stable Diffusion](https://github.com/CompVis/stable-diffusion).
@@ -352,7 +353,7 @@ If you found any part of this code is useful in your research, please consider c
 
 ```python
   @inproceedings{,
-      title={Fantasy Everything: A Journey of Outlier Imagination Across Unknown Spaces}, 
+      title={Fantasy Anything: A Journey of Outlier Imagination Across Unknown Spaces}, 
       author={Ruifan Zhang and Hai-miao Hu and Yibo Zhou and Xiaokang Zhang},
       booktitle={},
       year = {}
