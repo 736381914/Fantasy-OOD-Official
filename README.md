@@ -13,9 +13,10 @@
         <sup>1</sup>Beihang University, <sup>2</sup>State Key Laboratory of Virtual Reality Technology and Systems
     </div>
     <div>
-        <h4 align="center">
-            • <a href="" target='_blank'>CVPR 2026</a> •
-        </h4>
+        <br>
+        <p>
+            <img src="https://img.shields.io/badge/ACM%20MM-2027-orange" alt="ACM MM 2027">
+        </p>
     </div>
     <h2>Framework Illustration</h2>
     <div style="text-align:center">
