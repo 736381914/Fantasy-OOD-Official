@@ -15,7 +15,7 @@
     <div>
         <br>
         <p>
-            <img src="https://img.shields.io/badge/ACM%20MM-2027-orange" alt="ACM MM 2027">
+            <img src="https://img.shields.io/badge/ACM%20MM-2026-orange" alt="ACM MM 2026">
         </p>
     </div>
     <h2>Framework Illustration</h2>
