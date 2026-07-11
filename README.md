@@ -3,11 +3,11 @@
     <div>
         <a href='https://scholar.google.com/citations?user=U-oCnywAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Ruifan Zhang</a><sup>1,2</sup>
         &emsp;
-        <a href='https://scholar.google.com/citations?user=ZCoORgoAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Hai-miao Hu</a><sup>1,2</sup>
-        &emsp;
-        <a href='' target='_blank'>Yibo Zhou</a><sup>1,2</sup>
+        <a href='https://scholar.google.com/citations?user=ZCoORgoAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Yibo Zhou</a><sup>1,2</sup>
         &emsp;
         <a href='' target='_blank'>Xiaokang Zhang</a><sup>1,2</sup>
+        &emsp;
+        <a href='' target='_blank'>Hai-miao Hu</a><sup>1,2</sup>
     </div>
     <div>
         <sup>1</sup>Beihang University, <sup>2</sup>State Key Laboratory of Virtual Reality Technology and Systems
@@ -353,10 +353,10 @@ where "--load" specifies the address of the saved models.
 If you found any part of this code is useful in your research, please consider citing our paper:
 
 ```python
-  @inproceedings{,
-      title={Fantasy Anything: A Journey of Outlier Imagination Across Unknown Spaces}, 
-      author={Ruifan Zhang and Hai-miao Hu and Yibo Zhou and Xiaokang Zhang},
-      booktitle={},
-      year = {}
+  @inproceedings{zhang2026fantasy,
+  title     = {Fantasy Anything: A Journey of Outlier Imagination Across Unknown Spaces},
+  author    = {Zhang, Ruifan and Zhou, Yibo and Zhang, Xiaokang and Hu, Hai-miao},
+  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+  year      = {2026}
 }
 ```
