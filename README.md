@@ -3,11 +3,11 @@
     <div>
         <a href='https://scholar.google.com/citations?user=U-oCnywAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Ruifan Zhang</a><sup>1,2</sup>
         &emsp;
-        <a href='https://scholar.google.com/citations?user=ZCoORgoAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Yibo Zhou</a><sup>1,2</sup>
+        <a href='' target='_blank'>Yibo Zhou</a><sup>1,2</sup>
         &emsp;
         <a href='' target='_blank'>Xiaokang Zhang</a><sup>1,2</sup>
         &emsp;
-        <a href='' target='_blank'>Hai-miao Hu</a><sup>1,2</sup>
+        <a href='https://scholar.google.com/citations?user=ZCoORgoAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Hai-Miao Hu</a><sup>1,2</sup>
     </div>
     <div>
         <sup>1</sup>Beihang University, <sup>2</sup>State Key Laboratory of Virtual Reality Technology and Systems
